@@ -1,8 +1,7 @@
 <h3>Information</h3>
-This is a cordova plugin to use the Laser Barcode Scanner of Panasonic handhelds. Suported and tested devices:
+This is a cordova plugin to use the MobileAd Barcode Scanner. Suported and tested devices:
 <ul>
-<li>A Panasonic toughpad FZ-F1 running the Universal Windows Platform (Windows 10)</li>
-<li>A Panasonic toughpad FZ-X1 running Android 4.2.2</li>
+<li> running Android 4.2.2</li>
 </ul>
 
 <h3>How to use</h3>
